@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+ * What new skills have you learned?
+
+I have learned new HTML elements that I either wasn't familiar with or got confused with. Going over everything again in order to help complete this project, has made it easier to stay fresh in my memory. 
+
+ * What has been easy?
+
+I learned HTML a few years back and some things were fresh in my memory and some weren't. For the most part, I could remember different forms of syntax to help me complete this project. However, using the W3 Schools website (https://www.w3schools.com/) if I forgot or got confused with different methods of HTML, made the process quicker to complete and helped refreshed my memory. 
+
+ * What has been difficult?
+
+The most difficult thing for me was to separate HTML and Swift languages with certain areas. After learning and mastering Swift language recently, it still is fresh in my brain. I had to think differently on my approaches with HTML syntax verses Swift syntax. My brain was programmed to think in Swift for so long, that I had to take a beat in order to realize I was working with HTML.
+
+ * How have you used problem solving strategies from the first project to overcome challenges so far?
+
+Personally, practicing code repeatedly has helped me improve my HTML skills, as well as my time management skills. Especially, since I haven't really touched it in a few years. As I repeat things over and over, it helps me become quicker with completing projects and keeps it fresh in my mind.
