@@ -21,4 +21,4 @@ This webpage was created specifically for [Udacity's Front End Developer Develop
 
 **Closing:**
 
-In conclusion, I have learned a lot by working on this project. I am confident that I mastered UIKit and am able to successfully create applications using different scenes, functions and assets in order to create an exciting application.
+In conclusion, I have learned a lot by working on this project. I am confident that I mastered HTML and am able to successfully create web pages using different features.
